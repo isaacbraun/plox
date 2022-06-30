@@ -1,0 +1,19 @@
+for (var i = 0; i < 30; i = i + 1)
+{
+    continue;
+    print "Does this ever appear?";
+}
+print "Done";
+
+
+// {
+//     var i = 0;
+//     while (i < 30)
+//     {
+//         {
+//             continue;
+//             print "Does this ever appear?";
+//         }
+//         i = i + 1;
+//     }
+// }
